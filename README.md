@@ -14,11 +14,4 @@ Classification Models: The project utilizes logistic regression and decision tre
 
 **Methodology**: A rigorous methodology, including model training, validation, and testing, has been implemented. This ensures the reliability and generalization of the developed models in real-world scenarios.
 
-**Repository Structure**:
-/code: Contains the Python scripts used for model development and analysis.
 
-/data: Includes the storedata.csv file and any other relevant datasets used in the project.
-
-/docs: Documentation related to the project, including this README file.
-
-/models: Saved model files or serialized objects that can be used for deployment or further analysis.
