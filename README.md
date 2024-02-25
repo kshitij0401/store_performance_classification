@@ -4,7 +4,7 @@ Overview**:
 This repository contains the code and documentation for a machine learning project focused on classifying store performance for a chain of over 100 shops in the UK. The project aims to distinguish between good and poor-performing stores using various machine learning models.
 
 **Project Highlights**:
-Classification Models: The project utilizes logistic regression, decision tree, and neural network models to analyze and predict store performance based on comprehensive datasets. The implemented models have demonstrated accurate classification results.
+Classification Models: The project utilizes logistic regression and decision tree models to analyze and predict store performance based on comprehensive datasets. The implemented models have demonstrated accurate classification results.
 
 **Data Mining Techniques**: Python was employed for data mining, leveraging popular libraries such as scikit-learn. The project focuses on implementing and optimizing machine learning models to provide effective decision-making support.
 
